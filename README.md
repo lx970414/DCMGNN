@@ -1,5 +1,5 @@
 # DCMGNN
-This is for KDD'24-submission:
+This is the code for paper:
 > Dual-Channel Multiplex Graph Neural Networks for Recommendation
 
 ## Dependencies
